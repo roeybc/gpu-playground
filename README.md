@@ -21,7 +21,7 @@ add = matrix.add(a, b)
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgements
-* This project uses [PyTorch](https://pytorch.org/), which is licensed under the [BSD-3-Clause License](https://github.com/pytorch/pytorch/blob/master/LICENSE).
+* This project uses [PyTorch](https://pytorch.org/), which is licensed under the [PyTorch license terms](https://github.com/pytorch/pytorch/blob/main/LICENSE) .
 
 * This project uses [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit), which is subject to the [CUDA EULA](https://docs.nvidia.com/cuda/eula/index.html).
 
